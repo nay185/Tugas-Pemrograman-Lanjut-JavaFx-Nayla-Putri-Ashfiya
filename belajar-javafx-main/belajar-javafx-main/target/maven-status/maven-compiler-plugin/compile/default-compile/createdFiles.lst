@@ -1,0 +1,4 @@
+Main.class
+Model\ScoringData.class
+Controller\ScoringController.class
+Model\Scoring.class
